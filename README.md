@@ -2,6 +2,7 @@
 
 **SkinDiseasesRNC** es un proyecto académico enfocado en la clasificación de imágenes de enfermedades de la piel** mediante el uso de redes neuronales convolucionales (RNC).  
 El modelo se entrenó para reconocer **cuatro enfermedades dermatológicas**: **acné, dermatitis atópica, psoriasis y rosácea**.
+
 ---
 
 ## 🧠 Modelo utilizado
